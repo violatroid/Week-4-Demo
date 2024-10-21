@@ -1,0 +1,19 @@
+body{
+    background-color: deeppink;
+    color: lightpink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seriff;
+}
+ /* input[type=radio]{
+    display: block;
+ } */
+  label{
+    width: 40vw;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  td{
+    text-align: right;
+  }
+  th{
+    text-align: left;
+  }
